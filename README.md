@@ -13,3 +13,6 @@ Caso: Abogabot
 - La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
 [Requerimientos](./requerimientos.md)
+[Requerimientos](./publicoobjetivo_buyer.md)
+[UX](./ux.md)
+[UI](./ui.md)
