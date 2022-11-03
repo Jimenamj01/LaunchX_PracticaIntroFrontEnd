@@ -16,4 +16,4 @@ Aplicación:
 - Tener acceso a la base de datos del despacho.
 - Contar con una interfaz sencilla con colores azul marino, blanco y semitonos.
 
-[Volver &ldca;](/01%20-%20INTRO/README.md "Regresar a página anterior")
+[Volver &ldca;](/README.md "Regresar a página anterior")
