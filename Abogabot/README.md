@@ -12,10 +12,10 @@ Caso: Abogabot
 - La página debe de ser responsive para poderla ver desde el celular.
 - La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
-[Requerimientos](.Abogabot/requerimientos.md)
+[Requerimientos](LaunchX_PracticaIntroFrontEnd/Abogabot/requerimientos.md)
 
-[Público Objetivo y Buyer Persona](./PublicoObjetivo_Buyer.md)
+[Público Objetivo y Buyer Persona](LaunchX_PracticaIntroFrontEnd/Abogabot/PublicoObjetivo_Buyer.md)
 
-[UX](./ux.md)
+[UX](LaunchX_PracticaIntroFrontEnd/Abogabot/ux.md)
 
-[UI](./ui.md)
+[UI](LaunchX_PracticaIntroFrontEnd/Abogabot/ui.md)
