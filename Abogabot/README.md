@@ -12,7 +12,7 @@ Caso: Abogabot
 - La página debe de ser responsive para poderla ver desde el celular.
 - La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
-[Requerimientos](./requerimientos.md)
+[Requerimientos](.Abogabot/requerimientos.md)
 
 [Público Objetivo y Buyer Persona](./PublicoObjetivo_Buyer.md)
 
