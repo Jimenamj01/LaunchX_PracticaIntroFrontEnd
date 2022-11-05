@@ -1,4 +1,4 @@
-Caso 
+# Caso Pastelería
 
 Cliente:
 - El cliente de la pastelería necesita ver los diferentes sabores de pasteles, así como los precios de cada uno.
